@@ -61,7 +61,38 @@ ISGA DIRECT est une plateforme académique conçue pour améliorer la gestion de
 
 - **Interface Étudiant** : Accès aux informations académiques, suivi des absences, modification du mot de passe.
 
+<img width="523" alt="Capture d’écran 2024-06-22 à 09 09 42" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/a3a235d9-8ebf-4075-a324-2da91e6842c3">
 
-  
+            Formulaire d’authentification.            
+
+<img width="664" alt="Capture d’écran 2024-06-22 à 09 10 10" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/ce226c08-2d85-4126-9ca2-2e7028d8cd11">
+
+            Page d’accueil de l’application-côté étudiant.
+
+<img width="664" alt="Capture d’écran 2024-06-22 à 09 10 31" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/98894f53-a5b0-41cd-93b8-24e76d869ea9">
+
+            Interface Relevé des retards
+
+<img width="664" alt="Capture d’écran 2024-06-22 à 09 10 55" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/60ebec6c-feaf-4e8f-a9d2-292705369477">
+
+            Interface Relevé des absences
+
+<img width="664" alt="Capture d’écran 2024-06-22 à 09 11 14" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/0768a14e-32d1-4853-b84b-8783671fd8c3">
+
+            Interface Relevé des notes
+
+<img width="664" alt="Capture d’écran 2024-06-22 à 09 11 33" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/07455862-2846-48b0-96ce-7d32a57faf60">
+
+            Page de déconnexion.
+
 - **Système de Notification** : Envoi d'emails automatiques aux étudiants en cas d'absence.
   
+<img width="709" alt="Capture d’écran 2024-06-22 à 09 12 09" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/8362944d-634f-4664-87ac-711f91549db2">
+
+            Flux Node-RED pour notification d’absence par email.
+
+**Prototype du lecteur RFID**
+
+<img width="536" alt="Capture d’écran 2024-06-22 à 09 12 40" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/9b2ff1f1-ddfc-4486-b801-fea64e8604b7">
+
+
