@@ -25,7 +25,7 @@ ISGA DIRECT est une plateforme académique conçue pour améliorer la gestion de
 
 <img width="523" alt="Page d’accueil de l’application-côté administrateur" src="https://github.com/OussamaAbdelfattah/Conception-et-r-alisation-d-une-plateforme-tudiante-avec-gestion-automatis-e-des-absences/assets/160117292/daa27ec1-4610-4cb8-837d-19b1c7ab6f61">
 
-Page d’accueil de l’application-côté administrateur.
+            Page d’accueil de l’application-côté administrateur.
 
   
 - **Interface Étudiant** : Accès aux informations académiques, suivi des absences, modification du mot de passe.
